@@ -1,4 +1,4 @@
-package stringUtil
+package stringutil
 
 import "testing"
 
