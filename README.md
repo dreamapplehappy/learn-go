@@ -4,6 +4,7 @@
 + [ ] A Tour of GO
     - [x] basics
     - [x] flow control
-    - [ ] more types
+    - [x] more types
+    - [ ] methods
 + [x] How to Write Go code
 + [ ] Effective Go
